@@ -1,0 +1,2 @@
+# RPG0018PorQueNaoParalelizar
+ 
